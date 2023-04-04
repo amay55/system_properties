@@ -1,2 +1,3 @@
-# uni_grading_system
-Module 1 Assignment 1 
+# system properties and details
+Module 1 Assignment 2
+
